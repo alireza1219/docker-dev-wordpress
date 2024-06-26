@@ -1,0 +1,13 @@
+wp-content/*
+!wp-content/index.php
+
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/index.php
+
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/index.php
+
+logs/*
+!logs/.gitkeep
